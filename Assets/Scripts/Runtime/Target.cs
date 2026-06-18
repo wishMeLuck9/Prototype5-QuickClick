@@ -11,7 +11,7 @@ public class Target : MonoBehaviour
     private readonly float maxSpeed = 16f;
     private readonly float maxTorque = 10f;
     private readonly float xRange = 4f;
-    private readonly float ySpawnPos = -6f;
+    private readonly float ySpawnPos = -4.5f;
 
     private Rigidbody targetRb;
     private GameManager gameManager;
